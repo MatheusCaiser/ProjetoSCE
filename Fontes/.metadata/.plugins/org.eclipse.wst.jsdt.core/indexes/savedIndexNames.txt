@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+D:\GitHub\ProjetoSCE\Fontes\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3343980324.index
+1488442744.index
+2104337525.index
+2455702481.index
+1670645670.index

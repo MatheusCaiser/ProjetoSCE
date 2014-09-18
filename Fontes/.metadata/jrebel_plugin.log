@@ -1,0 +1,12 @@
+2014-09-17 23:39:52.882 [Worker-0] DEBUG AgentProvider - setInitializationData. isBeta false; location jrebel/
+2014-09-17 23:39:52.907 [Worker-0] DEBUG AgentProvider - setInitializationData. isBeta true; location jr6/jrebel/
+2014-09-17 23:39:52.957 [Worker-0] DEBUG HttpNotifications - Starting JRebel Notification server on port 0
+2014-09-17 23:39:53.376 [Worker-0] DEBUG HttpNotifications - Listening to JRebel notifications at http://127.0.0.1:52970/jrebel/notifications
+2014-09-17 23:39:53.403 [Worker-0] DEBUG EclipseJRebelClientAdapter - Getting license via CLI
+2014-09-17 23:39:53.440 [Worker-0] DEBUG o.z.exec.ProcessExecutor - Executing [C:\Program Files\Java\jre7\bin\java.exe, -Drebel.log=false, -Drebel.log.stdout=false, -Drebel.env.ide=Eclipse, -Drebel.properties=C:\Users\Matheus\.jrebel\jrebel.properties, -Drebel.license_server.legacy=false, -cp, D:\Java\eclipse\plugins\org.zeroturnaround.eclipse.embedder_5.6.2.RELEASE-201408260808\jrebel\jrebel.jar, com.zeroturnaround.javarebel.CLILicensingAPIImpl, getCurrentLicense, , ]...
+2014-09-17 23:39:53.502 [Worker-0] DEBUG o.z.exec.ProcessExecutor - Started java.lang.ProcessImpl@621d4880
+2014-09-17 23:39:54.367 [Worker-0] DEBUG o.z.exec.WaitForProcess - java.lang.ProcessImpl@621d4880 stopped with exit code 0
+2014-09-17 23:39:54.375 [Worker-0] DEBUG EclipseJRebelClientAdapter - Getting license via CLI
+2014-09-17 23:39:54.386 [Thread-19] DEBUG o.z.exec.ProcessExecutor - Executing [C:\Program Files\Java\jre7\bin\java.exe, -Drebel.log=false, -Drebel.log.stdout=false, -Drebel.env.ide=Eclipse, -Drebel.properties=C:\Users\Matheus\.jrebel\jrebel.properties, -Drebel.license_server.legacy=false, -cp, D:\Java\eclipse\plugins\org.zeroturnaround.eclipse.embedder_5.6.2.RELEASE-201408260808\jrebel\jrebel.jar, com.zeroturnaround.javarebel.CLILicensingAPIImpl, getCurrentLicense, , ]...
+2014-09-17 23:39:54.586 [Thread-19] DEBUG o.z.exec.ProcessExecutor - Started java.lang.ProcessImpl@679d838
+2014-09-17 23:39:55.770 [Thread-19] DEBUG o.z.exec.WaitForProcess - java.lang.ProcessImpl@679d838 stopped with exit code 0
