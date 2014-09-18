@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <syncparticipants>
-<participant displayName="Git (SCE, SCEClien...SCEEJB, SCEWeb)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1411008276196">
+<participant displayName="Git (SCEWeb, SCECo...Client, SCEEJB)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1411008980840">
 <data forceFetch="false" root="false">
-<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="SCE, SCEClien...SCEEJB, SCEWeb" startupAction="none">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="SCEWeb, SCECo...Client, SCEEJB" startupAction="none">
 <org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
 <org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">
 <mappings>
@@ -14,7 +14,7 @@
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="D:/GitHub/ProjetoSCE/Fontes/SCE" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="D:/GitHub/ProjetoSCE/Fontes/SCE" dstRev="FETCH_HEAD" inludeLocal="false" srcRev="HEAD"/>
 </data>
 </participant>
 </syncparticipants>
